@@ -1,2 +1,2 @@
-# 4Geeks-myPostcard
+# 4Geeks-exercises
 HTML5/CSS3 Practice
